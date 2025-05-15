@@ -3,7 +3,7 @@ module.exports = {
     name: "linkAutoDownload",
     version: "1.3.0",
     hasPermssion: 0,
-    credits: "ARIF BABU",
+    credits: "𝐙𝐄𝐃𝐈 𝐑𝐀𝐍𝐀 𝐑𝐀𝐌𝐙𝐀𝐍",
     description:
       "Automatically detects links in messages and downloads the file.",
     commandCategory: "Utilities",
