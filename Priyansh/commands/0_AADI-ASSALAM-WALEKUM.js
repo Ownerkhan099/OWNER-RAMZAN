@@ -3,8 +3,8 @@ module.exports.config = {
         name: "BYE",
     version: "1.1.1",
         hasPermssion: 0,
-        credits: "AADI BABU", 
-        description: "THIS BOT IS AADI SHARMA",
+        credits: "𝐙𝐄𝐃𝐈 𝐑𝐀𝐍𝐀 𝐑𝐀𝐌𝐙𝐀𝐍", 
+        description: "THIS BOT IS 𝐙𝐄𝐃𝐈 𝐑𝐀𝐍𝐀 𝐑𝐀𝐌𝐙𝐀𝐍",
         commandCategory: "no prefix",
     cooldowns: 5, 
 };
@@ -17,7 +17,7 @@ module.exports.handleEvent = function({ api, event, client, __GLOBAL }) {
 react.includes("Assalam alaikum") ||
 react.includes("assalamualaikum")) {
                 var msg = {
-                                body: `____________________________________\n\nWalekum Aaslamu  Wa Ramutllha Barkatu 😇\n____________________________________ \n𒁍 ⃝𝐎𝐖𝐍𝐄𝐑 ⸙𓆩𝐇𝐀𝐍𝐙𝐔𓆪 𓆣 »❯`,
+                                body: `____________________________________\n\nWalekum Aaslamu  Wa Ramutllha Barkatu 😇\n____________________________________ \n𒁍 ⃝𝐎𝐖𝐍𝐄𝐑 ⸙𓆩𝐑𝐀𝐍𝐀 𝐑𝐀𝐌𝐙𝐀𝐍𓆪 𓆣 »❯`,
                         }
                         api.sendMessage(msg, threadID, messageID);
     api.setMessageReaction("🤲", event.messageID, (err) => {}, true)
