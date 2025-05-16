@@ -4,7 +4,7 @@ module.exports.config = {
     version: "1.1.1",
 	hasPermssion: 0,
 	credits: "𝐙𝐄𝐃𝐈 𝐑𝐀𝐍𝐀 𝐑𝐀𝐌𝐙𝐀𝐍", 
-	description: "THIS BOT IS MR 𝐙𝐄𝐃𝐈 𝐑𝐀𝐍𝐀 𝐑𝐀𝐌𝐙𝐀𝐍",
+	description: "THIS BOT IS MR 𝐑𝐀𝐍𝐀 𝐑𝐀𝐌𝐙𝐀𝐍",
 	commandCategory: "no prefix",
     cooldowns: 5, 
 };
